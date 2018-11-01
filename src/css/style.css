@@ -25,6 +25,18 @@ header {
     background: red;
 }
 
+header ul {
+    width: 130%;
+    height: 40px;
+    line-height: 40px;
+    overflow: hidden;
+}
+
+header ul li {
+    float: left;
+    margin-left: 10px;
+}
+
 section {
     flex: 1;
 }
